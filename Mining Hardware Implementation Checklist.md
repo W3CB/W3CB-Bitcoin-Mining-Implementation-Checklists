@@ -1,4 +1,4 @@
-# PowerProfit  Mining Hardware Implementation Checklist
+# Mining Hardware Implementation Checklist
 
 ## Initial Planning
 
