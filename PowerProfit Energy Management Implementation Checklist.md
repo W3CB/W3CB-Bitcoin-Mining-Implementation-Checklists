@@ -1,4 +1,4 @@
-# PowerProfit  Energy Management Implementation Checklist
+# Energy Management Implementation Checklist
 
 ## Initial Energy Assessment
 
