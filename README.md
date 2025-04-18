@@ -6,51 +6,51 @@ A comprehensive collection of implementation checklists for cryptocurrency minin
 
 This repository is organized into the following main categories:
 
-1. [Implementation Approach](https://claude.ai/chat/8b20bc15-b697-4840-84f1-4f43fd2a6df5#implementation-approach)  
-2. [Infrastructure & Cooling](https://claude.ai/chat/8b20bc15-b697-4840-84f1-4f43fd2a6df5#infrastructure--cooling)  
-3. [Mining Hardware & Systems](https://claude.ai/chat/8b20bc15-b697-4840-84f1-4f43fd2a6df5#mining-hardware--systems)  
-4. [Management & Operations](https://claude.ai/chat/8b20bc15-b697-4840-84f1-4f43fd2a6df5#management--operations)  
-5. [Facility Acquisition](https://claude.ai/chat/8b20bc15-b697-4840-84f1-4f43fd2a6df5#facility-acquisition)
+1. Implementation Approach  
+2. Infrastructure & Cooling  
+3. Mining Hardware & Systems  
+4. Management & Operations  
+5. Facility Acquisition
 
 Each category contains detailed checklists for specific aspects of mining implementation.
 
 ## **Implementation Approach**
 
-* [**Phased Implementation Approach Checklist**](https://claude.ai/chat/checklists/implementation-approach/phased-implementation-checklist.md)  
+* **Phased Implementation Approach Checklist**  
    A comprehensive, phased approach to mining implementation including assessment & planning, infrastructure preparation, mining deployment, and optimization & scaling.
 
 ## **Infrastructure & Cooling**
 
-* [**Infrastructure & Cooling Implementation Checklist**](https://claude.ai/chat/checklists/infrastructure-cooling/infrastructure-cooling-checklist.md)  
+* **Infrastructure & Cooling Implementation Checklist**  
    Guidance for implementing PPC Ventilation, PC Cooling, and CoolT Systems.
 
-* [**Immersion Cooling Implementation Checklist**](https://claude.ai/chat/checklists/infrastructure-cooling/immersion-cooling-checklist.md)  
+* **Immersion Cooling Implementation Checklist**  
    Detailed steps for implementing immersion cooling solutions for mining hardware.
 
-* [**Hydro Cooling Implementation Checklist**](https://claude.ai/chat/checklists/infrastructure-cooling/hydro-cooling-checklist.md)  
+* **Hydro Cooling Implementation Checklist**  
    Comprehensive guidance for implementing water-based cooling systems for mining operations.
 
 ## **Mining Hardware & Systems**
 
-* [**Mining Hardware Implementation Checklist**](https://claude.ai/chat/checklists/mining-hardware/mining-hardware-checklist.md)  
+* **Mining Hardware Implementation Checklist**  
    Step-by-step guide for implementing Minecart, MaxNet, and Caveat mining hardware systems.
 
 ## **Management & Operations**
 
-* [**Mining Management Implementation Checklist**](https://claude.ai/chat/checklists/management-operations/mining-management-checklist.md)  
+* **Mining Management Implementation Checklist**  
    Guidance for implementing Laser, Bubble, and Advanced Value management solutions.
 
-* [**Energy Management Implementation Checklist**](https://claude.ai/chat/checklists/management-operations/energy-management-checklist.md)  
+* **Energy Management Implementation Checklist**  
    Steps for implementing Luxcloud, SeaCloud Mining, and GreenField energy management solutions.
 
 ## **Facility Acquisition**
 
-* [**Mining Facility Acquisition Due Diligence Checklist**](https://claude.ai/chat/checklists/facility-acquisition/facility-acquisition-checklist.md)  
+* **Mining Facility Acquisition Due Diligence Checklist**  
    Comprehensive checklist for evaluating and purchasing an existing mining facility.
 
 ## **Vendor Selection**
 
-* [**Vendor Selection Implementation Checklist**](https://claude.ai/chat/checklists/vendor-selection/vendor-selection-checklist.md)  
+* **Vendor Selection Implementation Checklist**  
    Framework for evaluating and selecting vendors across hardware, infrastructure, and services categories.
 
 ## **Usage Guidelines**
