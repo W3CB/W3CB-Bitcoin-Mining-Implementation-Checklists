@@ -1,4 +1,4 @@
-# PowerProfit  Infrastructure & Cooling Implementation Checklist
+# Infrastructure & Cooling Implementation Checklist
 
 ## Initial Assessment
 
