@@ -7,7 +7,7 @@
 - [ ] Document current vendor relationships (if any)  
 - [ ] Establish selection timeline  
 - [ ] Define budget constraints  
-- [ ] Identify key stakeholders for vendor selection process
+- [ ] Identify key stakeholders for the vendor selection process
 
 ## Hardware Selection Criteria
 
