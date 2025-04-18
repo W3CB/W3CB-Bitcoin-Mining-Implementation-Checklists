@@ -1,4 +1,4 @@
-# PowerProfit Mining Management Implementation Checklist
+# Mining Management Implementation Checklist
 
 ## Initial Planning
 
