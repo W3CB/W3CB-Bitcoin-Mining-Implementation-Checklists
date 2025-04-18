@@ -1,4 +1,4 @@
-# PowerProfit  Mining Facility Acquisition Due Diligence Checklist
+# Mining Facility Acquisition Due Diligence Checklist
 
 ## Initial Assessment
 
