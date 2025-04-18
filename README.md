@@ -1,5 +1,10 @@
 # **Bitcoin Mining Implementation Checklists**
 
+<!-- Shields/Badges (Optional) -->
+![Project Status](https://img.shields.io/badge/status-active-brightgreen) 
+![SOP Version](https://img.shields.io/badge/version-1.0-blue)
+Updated: April 18, 2025
+
 A comprehensive collection of implementation checklists for cryptocurrency mining operations and facilities. These checklists provide step-by-step guidance for planning, deploying, and optimizing mining operations.
 
 ## **Repository Structure**
